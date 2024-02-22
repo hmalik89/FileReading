@@ -1,0 +1,15 @@
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\bin\Debug\net7.0\FileReading.exe
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\bin\Debug\net7.0\FileReading.deps.json
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\bin\Debug\net7.0\FileReading.runtimeconfig.json
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\bin\Debug\net7.0\FileReading.dll
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\bin\Debug\net7.0\FileReading.pdb
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\obj\Debug\net7.0\FileReading.csproj.AssemblyReference.cache
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\obj\Debug\net7.0\FileReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\obj\Debug\net7.0\FileReading.AssemblyInfoInputs.cache
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\obj\Debug\net7.0\FileReading.AssemblyInfo.cs
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\obj\Debug\net7.0\FileReading.csproj.CoreCompileInputs.cache
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\obj\Debug\net7.0\FileReading.dll
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\obj\Debug\net7.0\refint\FileReading.dll
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\obj\Debug\net7.0\FileReading.pdb
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\obj\Debug\net7.0\FileReading.genruntimeconfig.cache
+C:\Users\mhaseeb.malik\source\repos\FileReading\FileReading\obj\Debug\net7.0\ref\FileReading.dll
