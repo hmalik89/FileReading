@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RRn1T98NFwskKVTmbVxaVcL5ejXTbzDatkItRQbMm7DeWP90jze+uktQpHTDNvWDqGYcvs2YS4ghQQKLbAFKqQ==",
+  "dgSpecHash": "hG6dpaH26bhTmTJNEKDybWKnztlsXZvFmpLOf5u7PJI7IWHoDfrfPJhhdmG7C9t1Eco+HVlFGzein2L53OB5cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mhaseeb.malik\\source\\repos\\FileReading\\FileReading\\FileReading.csproj",
+  "projectFilePath": "C:\\Users\\mhaseeb.malik\\source\\FileReading\\FileReading\\FileReading.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mhaseeb.malik\\source\\repos\\FileReading\\FileReading\\FileReading.csproj": {}
+    "C:\\Users\\mhaseeb.malik\\source\\FileReading\\FileReading\\FileReading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mhaseeb.malik\\source\\repos\\FileReading\\FileReading\\FileReading.csproj": {
+    "C:\\Users\\mhaseeb.malik\\source\\FileReading\\FileReading\\FileReading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mhaseeb.malik\\source\\repos\\FileReading\\FileReading\\FileReading.csproj",
+        "projectUniqueName": "C:\\Users\\mhaseeb.malik\\source\\FileReading\\FileReading\\FileReading.csproj",
         "projectName": "FileReading",
-        "projectPath": "C:\\Users\\mhaseeb.malik\\source\\repos\\FileReading\\FileReading\\FileReading.csproj",
+        "projectPath": "C:\\Users\\mhaseeb.malik\\source\\FileReading\\FileReading\\FileReading.csproj",
         "packagesPath": "C:\\Users\\mhaseeb.malik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mhaseeb.malik\\source\\repos\\FileReading\\FileReading\\obj\\",
+        "outputPath": "C:\\Users\\mhaseeb.malik\\source\\FileReading\\FileReading\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mhaseeb.malik\\AppData\\Roaming\\NuGet\\NuGet.Config",
